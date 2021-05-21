@@ -13,6 +13,7 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     k = {"Jack":23, "Mike":22}
+    k = {"Jack":23, "Mike":22}
     for m in k.items():
         print(m)
 
